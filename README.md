@@ -10,9 +10,9 @@ Je suis un développeur passionné par le Code. J'aime apprendre de nouvelles ch
 ## Projets en vedette
 ![image](https://github.com/user-attachments/assets/01c5ffd2-11bb-4d24-8b55-915f8b7f0d3b)
 
-- [Mon projet préféré](https://github.com/AnthoYt/Royale-Us): Rajoute une Map Among Us amélioré.
-- [Un autre projet intéressant](https://github.com/AnthoYt/HarryPotterAmongUs): HARRY POTTER sur Among Us.
-- [Un autre projet intéressant](https://github.com/AnthoYt/AmongUsUnknownImpostors): Imposteurs Inconnues sur Among Us.
+- [Mon projet Royale Us](https://github.com/AnthoYt/Royale-Us): Rajoute une Map Among Us amélioré.
+- [Mon projet Harry Potter](https://github.com/AnthoYt/HarryPotterAmongUs): HARRY POTTER sur Among Us.
+- [Mon projet Imposteurs Inconnues](https://github.com/AnthoYt/AmongUsUnknownImpostors): Imposteurs Inconnues sur Among Us.
 - [Un autre projet intéressant bientôt](https://github.com/AnthoYt/Bot-Discord)
 
 ## Me contacter
