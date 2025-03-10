@@ -13,7 +13,7 @@ Je suis un développeur passionné par le Code. J'aime apprendre de nouvelles ch
 - [Mon projet préféré](https://github.com/AnthoYt/Royale-Us): Rajoute une Map Among Us amélioré.
 - [Un autre projet intéressant](https://github.com/AnthoYt/HarryPotterAmongUs): HARRY POTTER sur Among Us.
 - [Un autre projet intéressant](https://github.com/AnthoYt/AmongUsUnknownImpostors): Imposteurs Inconnues sur Among Us.
-- [Un autre projet intéressant bientôt)()
+- [Un autre projet intéressant bientôt)(https://github.com/AnthoYt/Bot-Discord)
 
 ## Me contacter
 - **Email**: [Email](Bientôt Dispo)
