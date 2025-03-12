@@ -4,7 +4,7 @@
 Je suis un développeur passionné par le Code. J'aime apprendre de nouvelles choses et partager mes connaissances avec la communauté. Voici quelques-unes de mes compétences et intérêts:
 
 - **Langages de programmation**: Python, JavaScript, C#, Html
-- **Intérêts**: Développement web, Machine Virtuelle, Open Source
+- **Intérêts**: Développement Web, Machine Virtuelle, Open Source
   ![image](https://github.com/user-attachments/assets/ab1878a0-5400-4772-be6f-97e56be383dd)
 
 ## Projets en vedette
