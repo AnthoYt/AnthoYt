@@ -22,4 +22,4 @@ Je suis un développeur passionné par le Code. J'aime apprendre de nouvelles ch
 - **Discord**: [Serveur](https://discord.com/invite/ad7aMevNMx)
 - **Youtube**: [Chaine](https://youtube.com/@Royale_Antho)
   
-Merci de visiter mon profil GitHub!
+Merci d'avoir pris le temps de regarder Mon Profil 👀
