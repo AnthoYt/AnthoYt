@@ -1,4 +1,4 @@
-# Bienvenue sur mon GitHub!
+# Bienvenue !
 
 ## À propos de moi
 Je suis un développeur passionné par le Code. J'aime apprendre de nouvelles choses et partager mes connaissances avec la communauté. Voici quelques-unes de mes compétences et intérêts:
