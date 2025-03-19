@@ -20,6 +20,6 @@ Je suis un développeur passionné par le Code. J'aime apprendre de nouvelles ch
 ## Me contacter
 - **Email**: [Professionnel](mailto:Antho_Off@proton.me)
 - **Discord**: [Serveur](https://discord.com/invite/ad7aMevNMx)
-- **Youtube**: [Chaine](https://youtube.com/@Royale_Antho)
+- **Youtube**: [Antho_Off](https://youtube.com/@Royale_Antho)
   
 Merci d'avoir pris le temps de regarder Mon Profil 👀
