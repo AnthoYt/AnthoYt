@@ -12,7 +12,7 @@ Je suis un développeur passionné par le Code. J'aime apprendre de nouvelles ch
 - [Mon projet Royale Us](https://github.com/AnthoYt/Royale-Us) : Rajoute une Map Among Us amélioré.
 - [Mon projet Harry Potter](https://github.com/AnthoYt/HarryPotterAmongUs) : HARRY POTTER sur Among Us.
 - [Mon projet Imposteurs Inconnues](https://github.com/AnthoYt/AmongUsUnknownImpostors) : Imposteurs Inconnues sur Among Us.
-- <strong>MON DERNIER PROJET POUR 2026 !!! Juin ou Juillet</strong> : Aucune Donnée peut être transmis
+- <strong>MON DERNIER PROJET POUR 2026 !!! Février</strong> : Aucune Donnée peut être transmis
 
 ![image](https://github.com/user-attachments/assets/071e7714-9e7e-4547-9713-6356c51c9c26)
 
