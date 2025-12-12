@@ -9,7 +9,7 @@ Je suis un développeur passionné par le Code. J'aime apprendre de nouvelles ch
 
 ## Projets en vedette
 
-- [Mon projet Royale Us](https://github.com/AnthoYt/Royale-Us) : Rajoute une Map Among Us amélioré.
+- [Mon projet Royale Us](https://github.com/AnthoYt/Royale-Us) : La Map POLUS customisé sur Among Us.
 - [Mon projet Harry Potter](https://github.com/AnthoYt/HarryPotterAmongUs) : HARRY POTTER sur Among Us.
 - [Mon projet Imposteurs Inconnues](https://github.com/AnthoYt/AmongUsUnknownImpostors) : Imposteurs Inconnues sur Among Us.
 - <strong>MON DERNIER PROJET POUR 2026 !!! Février</strong>
