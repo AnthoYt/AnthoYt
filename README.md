@@ -12,7 +12,7 @@ Je suis un développeur passionné par le Code. J'aime apprendre de nouvelles ch
 - [Mon projet Royale Us](https://github.com/AnthoYt/Royale-Us) : La Map POLUS customisé sur Among Us.
 - [Mon projet Harry Potter](https://github.com/AnthoYt/HarryPotterAmongUs) : HARRY POTTER sur Among Us.
 - [Mon projet Imposteurs Inconnues](https://github.com/AnthoYt/AmongUsUnknownImpostors) : Imposteurs Inconnues sur Among Us.
-- <strong>MON DERNIER PROJET POUR 2026 !!! Février</strong>
+- [Mon Projet Discord](https://github.com/Twitch-Antho/Bot-Discord) : Codes Sources de Pleins de Bot Discord
 
 ![image](https://github.com/user-attachments/assets/071e7714-9e7e-4547-9713-6356c51c9c26)
 
